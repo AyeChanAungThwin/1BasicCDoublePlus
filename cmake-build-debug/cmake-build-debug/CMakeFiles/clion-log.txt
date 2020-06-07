@@ -1,0 +1,11 @@
+/opt/CLion-2020.1.1/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dracula/CLionProjects/C++Basics
+CMake Error at CMakeLists.txt:13 (add_subdirectory):
+  The source directory
+
+    /home/dracula/CLionProjects/C++Basics/com/acat/1data_types
+
+  does not contain a CMakeLists.txt file.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/dracula/CLionProjects/C++Basics/cmake-build-debug/CMakeFiles/CMakeOutput.log".

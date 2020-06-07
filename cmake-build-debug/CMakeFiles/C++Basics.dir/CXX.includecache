@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dracula/CLionProjects/BasicCDoublePlus/App.cpp
+iostream
+-
+com/acat/1data_types/1_primitive_primary_build-in/PRIMITIVE.h
+/home/dracula/CLionProjects/BasicCDoublePlus/com/acat/1data_types/1_primitive_primary_build-in/PRIMITIVE.h
+com/acat/1data_types/3user_defined/USER_DEFINED_DATA_TYPES.h
+/home/dracula/CLionProjects/BasicCDoublePlus/com/acat/1data_types/3user_defined/USER_DEFINED_DATA_TYPES.h
+com/acat/2reference/REFREENCE.h
+/home/dracula/CLionProjects/BasicCDoublePlus/com/acat/2reference/REFREENCE.h
+com/acat/3pointers/POINTERS.h
+/home/dracula/CLionProjects/BasicCDoublePlus/com/acat/3pointers/POINTERS.h
+
+/home/dracula/CLionProjects/BasicCDoublePlus/com/acat/1data_types/1_primitive_primary_build-in/PRIMITIVE.h
+iostream
+-
+cmath
+-
+
+/home/dracula/CLionProjects/BasicCDoublePlus/com/acat/1data_types/3user_defined/USER_DEFINED_DATA_TYPES.h
+iostream
+-
+bitset
+-
+
+/home/dracula/CLionProjects/BasicCDoublePlus/com/acat/2reference/REFREENCE.h
+
+/home/dracula/CLionProjects/BasicCDoublePlus/com/acat/3pointers/POINTERS.h
+

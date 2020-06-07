@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C__Basics.dir/com/acat/App.cpp.o  -o C__Basics 

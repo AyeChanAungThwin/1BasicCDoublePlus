@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C++Basics.dir/App.cpp.o  -o C++Basics 
